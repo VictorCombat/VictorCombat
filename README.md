@@ -12,7 +12,7 @@
 
 ## :page_with_curl: About me
 
-I'm a French student in my first year of master's degree in computer science at the University Claude Bernard Lyon 1. My goal is to specialize, in my second year, in computer graphics. I'm interested in many things : mobile development, computer graphics, blockchains ...
+I'm a French student in my first year of master's degree in computer science at the [Claude Bernard University Lyon 1](https://www.univ-lyon1.fr/). My goal is to specialize, in my second year, in computer graphics. I'm interested in many things : mobile development, computer graphics, blockchains ...
 
 ## :bulb: What I'm currently working on
 
