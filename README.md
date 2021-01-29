@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="gif.gif" alt="Gif" width="300">
+  <a href="#"><img src="gif.gif" alt="Gif" width="300"></a>
 
   <h1 align="center"> :wave: Hey there! <br> My name is Victor Combat </h1>
 
