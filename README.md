@@ -1,5 +1,6 @@
 <p align="center">
-  <a href="#"><img src="gif.gif" alt="Gif" width="300"></a>
+  <a href="#"><img src="./gif/bear_climbing_loop.gif" alt="Gif" width="400"></a>
+  <h3 align="center"> <i> Step by step ... </i> </h2>
 
   <h1 align="center"> :wave: Hey there! <br> My name is Victor Combat </h1>
 
