@@ -18,7 +18,7 @@ I'm a French student in my first year of master's degree in computer science at 
 ## :bulb: What I'm currently working on
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VictorCombat&repo=crypto_track&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/VictorCombat/crypto_track) <br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VictorCombat&repo=learn_babylonjs&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/VictorCombat/learn_babylonjs) <br />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VictorCombat&repo=babylonjs_game_tutorial&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/VictorCombat/babylonjs_game_tutorial) <br />
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VictorCombat&repo=intro_to_ethereum_programming&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/VictorCombat/intro_to_ethereum_programming) <br />
 
 ## :books: My skills
