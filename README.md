@@ -16,6 +16,8 @@
 
 I'm a French student in my last year of master's degree in computer science, specialized in computer graphics at the [Claude Bernard University Lyon 1](https://www.univ-lyon1.fr/). I'm interested in many things : mobile development, computer graphics/vision, blockchains, geospatial, games ...
 
+[Check my portfolio !](https://victorcombat.com)
+
 ## :bulb: Featured Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VictorCombat&repo=crypto_track&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/VictorCombat/crypto_track) <br />
