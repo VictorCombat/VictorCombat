@@ -20,9 +20,15 @@ I'm a French student in my last year of master's degree in computer science, spe
 
 ## :bulb: Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VictorCombat&repo=crypto_track&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/VictorCombat/crypto_track) <br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VCityTeam&repo=DA-POM-VilleUnity&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/VCityTeam/DA-POM-VilleUnity) <br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VictorCombat&repo=pac-man&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/VictorCombat/pac-man) <br />
+| | |
+| :---: | :---: |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VictorCombat&repo=background-subtraction-region-growing&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/VictorCombat/background-subtraction-region-growing) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VictorCombat&repo=crypto_track&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/VictorCombat/crypto_track) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VCityTeam&repo=DA-POM-VilleUnity&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/VCityTeam/DA-POM-VilleUnity) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VictorCombat&repo=orbital-defense&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/VictorCombat/orbital-defense) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VictorCombat&repo=pac-man&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/VictorCombat/pac-man) | |
+| | |
+
+ <br />
+ <br />
 
 ## :books: My Skills
   
