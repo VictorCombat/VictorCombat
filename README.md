@@ -16,7 +16,7 @@
 
 I'm a French student in my last year of master's degree in computer science, specialized in computer graphics at the [Claude Bernard University Lyon 1](https://www.univ-lyon1.fr/). I'm interested in many things : mobile development, computer graphics/vision, blockchains, geospatial, games ...
 
-[Check my portfolio !](https://victorcombat.com)
+[Check my portfolio !](https://www.victorcombat.com)
 
 ## :bulb: Featured Projects
 
